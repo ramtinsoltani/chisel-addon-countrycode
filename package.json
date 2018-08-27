@@ -15,6 +15,10 @@
     "code",
     "iso3166"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:ramtinsoltani/chisel-addon-iso3166.git"
+  },
   "author": "Ramtin Soltani <ramtin@chiselpowered.com>",
   "license": "MIT",
   "devDependencies": {
