@@ -1,1 +1,1 @@
-export function iso3166(country: string): string;
+export function countryCode(country: string): string;
