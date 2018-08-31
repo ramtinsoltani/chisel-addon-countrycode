@@ -1,5 +1,5 @@
 {
-  "name": "chisel-addon-countrycode",
+  "name": "chisel-addon-iso3166",
   "version": "1.0.0",
   "description": "Chisel mutator addon for matching country names with their ISO 3166 code.",
   "main": "index.js",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:ramtinsoltani/chisel-addon-countrycode.git"
+    "url": "git+ssh://git@github.com:ramtinsoltani/chisel-addon-iso3166.git"
   },
   "author": "Ramtin Soltani <ramtin@chiselpowered.com>",
   "license": "MIT",
